@@ -1,3 +1,3 @@
 # NetworkX_practice
 
-Practice code to get used to NetworkX library and [Gephi](https://gephi.org/) program
+Practice code to get used to [NetworkX](https://networkx.github.io/) library and [Gephi](https://gephi.org/) program
